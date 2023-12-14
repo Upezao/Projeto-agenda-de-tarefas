@@ -1,0 +1,4 @@
+para escrever em mais de uma linha ao mesmo tempo basta selecionar o conteudo da linha e clickar 
+Crtl + Shitf + L
+
+para selecionar todas as ocorrencias após a selecionada basta dar Ctrl + D : e necessario fazer isso para cada ocorrencia

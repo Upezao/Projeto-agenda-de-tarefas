@@ -1,0 +1,25 @@
+.alert-container{
+    background-color: #de404f;
+    width: 100%;
+    max-width: 350px;
+    padding: 20px;
+    border-radius: 8px;
+
+    position: absolute; /*isso permite posicionar o elemento aonde voce quiser*/
+    right: 32px;
+    bottom: 32px;
+    z-index: 1;
+    box-shadow: 2px 2px 6px 3px rgb(0, 0, 0, 0.2);
+
+    display: none;
+}
+
+.alert-title{
+    margin-bottom: 20px;
+}
+
+.alert-title, .alert-message{ /*Quando colocamos a virgula queremos dizer que a alteração é em todos os parametros
+                              depois da virgula, quando não há virgula so haverá alteração quando o parametro receber as
+                              todas as classes apontadas.*/
+    color: #fff;
+}
